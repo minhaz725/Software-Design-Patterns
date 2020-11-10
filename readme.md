@@ -1,0 +1,1 @@
+It's a repo about software engineering design pattern examples.
